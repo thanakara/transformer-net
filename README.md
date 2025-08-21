@@ -1,5 +1,5 @@
-# transformer-net
+# Attention/TF
 
-An implementation of the transformers architecture in tensorflow.
+An implementation of the transformers architecture in TensorFlow.
 
-![Transformer Image](transformer.png)
+![Transformer Image](extras/transformers.png)
